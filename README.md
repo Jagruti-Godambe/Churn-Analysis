@@ -37,7 +37,7 @@ The **Random Forest** model performed better than Logistic Regression in terms o
 ├── requirements.txt            # Python libraries required to run the project.
 ├── README.md                   # Project documentation.
 └── data                        # Directory for storing the dataset (optional).
-´´´
+```
 
 
 
