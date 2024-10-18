@@ -28,3 +28,20 @@ The dataset used in this project is the **Telco Customer Churn** dataset, which 
 - **Churn**: The target variable, indicating whether a customer churned or not.
 
 ## Project Structure
+```plaintext
+├── Churn_Analysis.ipynb        # Jupyter notebook with code for data analysis and modeling.
+├── requirements.txt            # Python libraries required to run the project.
+├── README.md                   # Project documentation.
+└── data                        # Directory for storing the dataset (optional, depending on structure).
+
+
+## Installation
+To run this project on your local machine, follow the steps below:
+
+1. **Clone the repository**:  
+   First, clone the repository from GitHub:
+   ```bash
+   git clone https://github.com/your-username/churn-analysis.git
+   cd churn-analysis
+pip install -r requirements.txt
+
